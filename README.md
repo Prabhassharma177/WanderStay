@@ -10,4 +10,4 @@ During my backend classes I created this.
 In deployment I faced issues.
 I deployed by when I went that link there is error.
 Then I felt stuck but taking time I resolve the error.
-When yiu solve error then wow.
+When yiu solve error then feel wow!
