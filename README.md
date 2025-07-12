@@ -11,4 +11,4 @@ In deployment I faced issues.
 I deployed by when I went that link there is error.
 Then I felt stuck but taking time I resolve the error.
 When you solve error then feel wow! I did it.
-After that this app is running smothly.
+After that this app is running smoothly.
